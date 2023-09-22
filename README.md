@@ -1,1 +1,4 @@
 # Donation_Analysis
+This project entails the comprehensive analysis and visualization of an extensive dataset, encompassing more than 68 million records. The project adeptly illustrates the correlation between project numbers and donations, employing interactive scatter plots, while also presenting the distribution of project categories through pie charts. Furthermore, a linear model is applied to gain insights into the relationship between projects and donations. The implementation leverages prominent Python libraries, including NumPy, Pandas, Matplotlib, Plotly, and Cufflinks, for proficient data manipulation, visualization, and modeling.
+
+Due to the substantial file sizes, it is impractical to upload them within this context. I will endeavor to provide separate links for accessing these files.
